@@ -1,2 +1,2 @@
 Documento C
-Este es el segundo dia de trabajo con GIT
+Este es el segundo dia de trabajo con GIT.
